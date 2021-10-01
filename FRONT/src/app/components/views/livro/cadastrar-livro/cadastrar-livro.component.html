@@ -1,0 +1,23 @@
+<form action="http://lab.alexcican.com/minimal_signup_form/about.html" method="get">
+
+    <div id="titulo">
+    <label for="titulo">Título:</label>
+    <input type="text" name="titulo" [(ngModel)]="titulo" />
+</div>
+<div id="autor">
+    <label for="autor">Autor:</label>
+    <input type="text" name="autor" [(ngModel)]="autor" />
+</div>
+<div id="editora">
+    <label for="preco">Editora:</label>
+    <input type="text" name="editora" [(ngModel)]="editora" />
+</div>
+<div id="descricao">
+    <label for="descricao">Descrição:</label>
+    <input type="text" name="descricao" [(ngModel)]="descricao" />
+</div>
+
+<div id="botaoCadastrar">
+    <button type="submit" (click)="create()">Cadastrar</button>
+</div>
+
