@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Amanda\\Downloads\\trabalho\\API\\API.csproj": {}
+    "C:\\Users\\PICHAU\\Desktop\\provateste\\Des.-Software-Visual\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Amanda\\Downloads\\trabalho\\API\\API.csproj": {
+    "C:\\Users\\PICHAU\\Desktop\\provateste\\Des.-Software-Visual\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amanda\\Downloads\\trabalho\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\PICHAU\\Desktop\\provateste\\Des.-Software-Visual\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Amanda\\Downloads\\trabalho\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Amanda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amanda\\Downloads\\trabalho\\API\\obj\\",
+        "projectPath": "C:\\Users\\PICHAU\\Desktop\\provateste\\Des.-Software-Visual\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PICHAU\\Desktop\\provateste\\Des.-Software-Visual\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Amanda\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
